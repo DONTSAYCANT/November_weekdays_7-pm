@@ -59,4 +59,39 @@ Taks1:
 What's end / sep parameter in print function 
 https://www.w3schools.com/python/ref_func_print.asp
 
+November 3:
+
+Task 0:
+create float ===> convert in to int str bool
+create int ==> conver in to float str bool
+create bool ===> convert in to float int str
+create str ===> convert in to int float bool
+
+#int float bool str
+
+a = 10.00001
+print(int(a))
+
+print(bool(a))
+
+1. Get radius (int) and height (float) from user using input function
+   Find the area of cylinder pi r*r h 
+   Print area output in integer with formatted output
+
+2. Area of the circel and circumference:
+
+area pi r * r   cicr  2 pi r
+collect radius from user as integer
+print area (int) in formatted way
+print circumference in string format in formatted way
+
+
+3: Print function:
+Read about print function and its parameters end, sep
+Ref: https://www.geeksforgeeks.org/python-output-using-print-function/
+
+4. round function 3.99999 ===> round function
+4.98 ===> study about round function
+Reference: https://www.w3schools.com/python/ref_func_round.asp
+
 
