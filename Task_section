@@ -245,7 +245,50 @@ print(a[::-5])
 #[::-5]
 
 
+November 11:
+Strings:
 
+Task1:
+    
+#collect one string from user (input)
+#identify middle letter of the string
+
+a = "computer"
+
+a = "django"
+
+a = "groovyy"
+
+Task2:
+    
+Get two strings from user  example: 
+    "java" "groovy" ==> java6groovy4
+   
+   "pi" "mathematics"  ===> pi15mathematics2
+    
+Task3:
+    
+    Get one string from user
+    
+    a = "computer"
+    
+    convert middle character to upper case
+    
+    a = "computer" ==> compUter
+    groovyy ==> groOvyy
+    
+Task4:
+    
+    what's your name ==> hackerrank
+    
+Task5:
+    swapcase
+    
+Task6:
+    Mutation
+    
+Task7:
+    capitalize
 
 
 
