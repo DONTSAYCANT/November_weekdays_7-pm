@@ -404,3 +404,12 @@ collect one number from user, check whether the number is positive or negative
 collect one number from user, check whether the number is even or odd
 collect one string from user, check whether the string is palindrome or not
 
+
+Task4:
+
+a = [1,2,3,4,5,1,1,1,2,3,4,5,1]
+
+#Remove duplicates from list a 
+#convert it to list again
+
+
