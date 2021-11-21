@@ -504,4 +504,18 @@ length of list odd or even
 #https://realpython.com/python-conditional-statements/
 #https://www.w3schools.com/python/python_conditions.asp
 
+Range function Task:
+#Using Range function  print multiples of 5 from 0 to 75
+#Using Range function  print multiples of 8 from 0 to 72
+
+#Using Range function  print multiples of 5 from 75 to 0
+#Using Range function  print multiples of 8 from 96 to 72
+
+
+Pre study:
+
+https://www.w3schools.com/python/python_for_loops.asp
+https://www.w3schools.com/python/python_while_loops.asp
+
+
 
