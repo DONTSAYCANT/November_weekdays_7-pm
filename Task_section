@@ -518,9 +518,38 @@ https://www.w3schools.com/python/python_for_loops.asp
 https://www.w3schools.com/python/python_while_loops.asp
 
 
-Loops Tasks:
+===================
+Loops tasks:
+===================
+
 
 Task1:
+
+[2,3,4,6,7,8,9,10,11]
+
+split odd numbers list / even numbers list
+
+the even numbers are [2,4,6,8,10] and its totally 5
+the odd numbers are [3,7,9,11] and its totally 4
+
+
+Task2:
+
+[-2,-3,4,5,6,8,9,0,0,1,2,3,5,-5,-6]
+
+Number of positive elemtns 9
+number of neg elements 4
+number of zeroes 2
+
+Task3:
+
+["mom", "dad", "king", "python", "malayalam", "123321", "123"]
+
+Number of palindrome strs: 4
+Number of non palindromes : 3
+
+
+Task4:
 
 Study range function and for loop properly
 
@@ -538,9 +567,9 @@ print(list(range(-5,5,3)))
 print(list(range(10,100,5)))
 print(list(range(10,0,-2)))
 
-Task2:
+Task5:
 
-Get list of strings from user
+Get list of strings from user (collect number of elements)
 separate it in to two lists with vowles and non vowels 
 
 ["hi","ggg","hello","ravi","bbbb","zzz","yyyy"]
@@ -549,7 +578,7 @@ No of elements with vowel: 4
 No of elements without vowel: 3
 
 
-Task3:
+Task6:
 
 Get list of strings from user
 separate it two list (with same first letter and last letter and othr)
@@ -560,13 +589,8 @@ No of elements with same first letter and last letter: 3
 Other List: 3
 
 
-Task4:
 
-Get a list of numbers from user
-separate it in to even number and odd number (you should create only one empty list)
-
-
-Task5: 
+Task7: 
 
 fibonacci series
 
@@ -584,7 +608,7 @@ user: 8
 
 [0,1,1,2,3]
 
-Task6:
+Task8:
 
 No range function  
 
@@ -593,7 +617,7 @@ Multiples of 8 between 120 to 20 using while loop
 Multiples of 5 between 9 to 40 using while loop
 Multiples of 8 between 300 to 200 using while loop
 
-Task7:
+Task9:
 
 #print all elements in the list using while loop
 
@@ -605,12 +629,12 @@ for i in Li1:
 1. calculate len
 2. decrement one by one in while
     
-Task8:
+Task10:
 
-check whether a number is armstrong or not using while loop
+check whether a number is armstrong or no
 Dont convert number to string 
 
-Task9:
+Task11:
 
 #Get one dynamic list from user
 
@@ -620,7 +644,7 @@ Task9:
 #print the elements
 
 
-Task10:
+Task12:
 
 #two numbers from user 2 25
 #2 
@@ -639,32 +663,30 @@ Task10:
 
 
 
-Task11:
+Task13:
 
 Factorial number
 
 5 ==> 5 * 4 * 3* 2 * 1
 120
 
-Task12:
+Task14:
 
 Get one number from user
 Sum of digits
 
 325 ==> 10
 
-Task13:
 
-sum of digits till it become single digit
 
-Task14:
+Task15:
 
 Product of digits
 no need to convert to string
 
 927 ==>  9* 2* 7 ==> 126
 
-Task15:
+Task16:
 
 #multiples of a number 
 
@@ -674,13 +696,13 @@ Task15:
 #25 ==> 1,5,25
 #16 ===> 1,2,4,8,16
 
-Task16:
+Task17:
 
 #Anagram ===> check whether given string is anagram or no
 
 #Two input strings
-#pot
-#top
+#pota
+#toap
 
 #top
 #pto
@@ -688,12 +710,9 @@ Task16:
 
 Task17:
 
-get list of strings from user
-categorize it in to even/odd length list using single loop
-
-Task18:
-
 Program to check a number is prime or no
 
 
 Test 1 (50 marks == 25 MCQ + 5 pgms)
+
+
