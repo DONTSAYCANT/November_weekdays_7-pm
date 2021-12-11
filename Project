@@ -5,11 +5,78 @@ December 11:
 Saturday: 3.30 pm to 4.15 pm (Hackerrank: 180 to 200 hacker rank points)
 Saturday: 
 
-Miniproject: stone rock paper scissor
+Topic: From class 1 to functions 
+Test: 25 mcq + 5 pgms (5 * 5 == 25 ==> out of 6 pgms) ==> 50 marks (45 mins)
+Pass mark: 35 
+Punishment: 50 pgms
+
+========================================================================================================
+Miniproject: 
+
+rock paper scissor
+
+1 player: user  2nd player: system
+
+rock + rock ==> Tie
+paper + paper ==> Tie
+scissor + scissor ==> Tie
+
+rock + scissor ==> rock
+paper + scissor ==> scissor 
+rock + paper  ===> paper
+
+How to collect user input ==> input
+
+How to collect system input ==> random
+
+import random
+
+Li1 = ["rock","paper","scissor"]
+
+print(random.choice(Li1))
+print(random.choice(Li1))
+print(random.choice(Li1))
+print(random.choice(Li1))
+print(random.choice(Li1))
+
+Number of games you want to play ? collect one integer
+
+Who wins?
+
+Number of games you want to play ?  3
+
+Game 1:
+Give your input ["rock","paper","scissor"] : rock
+System input: random 
+
+
+Game 2:
+
+Give your input ["rock","paper","scissor"] : rock
+System input: random 
+
+Game3
+
+Give your input ["rock","paper","scissor"] : rock
+System input: random 
+
+Total of number games: 3
+System points ==> 0
+User point ==> 2
+Tie ===> 1
+
+USER wins the game !!! Congrats !!!!
+
+
+==============================================================================================================
+
 Project1: Datastructure calculator (List/tuple/set/dictionary/loops)
+
+
 Project2: Quiz competition generator (json/while/functions)
+
 
 Saturday & sunday: collections, regex, itertools, random module
 
 
-December 18: 
+December 18: timing
