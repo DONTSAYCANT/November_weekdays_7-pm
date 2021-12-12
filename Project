@@ -72,11 +72,83 @@ USER wins the game !!! Congrats !!!!
 
 Project1: Datastructure calculator (List/tuple/set/dictionary/loops)
 
+==========================================
 
+Welcome to Data structure calculator
+
+Please select any one Data structure, 
+1. List (15 operations) ==> List.py
+2. Tuple (5 operatios)  ===> Tuple.py
+3. Set (15 operations) ===> Set.py
+4. Dictionary (10 operations) ==> Dict.py
+
+Main.py
+
+import List
+import Tuple
+import Set
+import Dict
+
+
+Do create Datastructure:
+
+List ==> selected
+1. create list 
+
+Options under List:
+
+1. append
+2. pop
+3. update / concatenation
+4. sum/min/max
+5. pop
+6. len 
+7. mean
+8. median
+9. find
+10. frequency
+11. .... 15 operations
+
+(15 operations)
+
+
+Set:
+
+Create a set
+
+Options:
+
+1. add
+2. update
+3. intersection
+
+1. Start with the project
+2. Modules
+3. Documentation
+4. Exception handling
+5. Github documentation
+
+==============================================================================================================
 Project2: Quiz competition generator (json/while/functions)
 
+Project3: Resume parser and downloader
 
-Saturday & sunday: collections, regex, itertools, random module
+project4: wikipedia parser
+
+project5: Automatic Wish sender
 
 
-December 18: timing
+December 25/26: Test2
+
+Python 330 points
+Regex   300 points
+
+
+
+
+
+
+
+
+
+
