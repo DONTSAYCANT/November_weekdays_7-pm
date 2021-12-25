@@ -1,0 +1,37 @@
+#DB connectivity with python
+
+#https://www.geeksforgeeks.org/mysqldb-connection-python/
+
+#Mysql 
+
+#python
+
+
+
+
+#Boto 3:
+
+https://boto3.amazonaws.com/v1/documentation/api/latest/index.html
+#Networking:
+
+https://www.geeksforgeeks.org/python-network-programming/
+https://www.tutorialspoint.com/python/python_networking.htm
+    
+#Django #Html/css/
+
+#Flask
+
+#https://docs.djangoproject.com/en/4.0/
+#https://realpython.com/tutorials/django/
+#selenium 
+#https://selenium-python.readthedocs.io/
+
+#json json/csv
+
+https://www.geeksforgeeks.org/python-json/
+https://www.geeksforgeeks.org/working-with-json-data-in-python/    
+#Pandas/numpy ==> excel/ data analysis
+
+#seaborn/matplotlib/ggplot/bokeh  ===> Visualisation
+
+https://pandas.pydata.org/docs/user_guide/index.html#user-guide
